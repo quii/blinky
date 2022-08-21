@@ -11,6 +11,7 @@ Going to try and make an exciting TinyGo chapter for [learn go with tests](https
 - Feedback loops of TinyGo improved with testing
     - Show the manual steps from the tutorial
         - > How bad would this be for something more complicated than blinking an LED
+- Write about the value of spiking code. Sometimes, you will be lost and not sure how to work with _discipline_. In these situations do a "spike", explore the problem, try things out **and then delete what you did and do it properly**.
 
 ## Info on arduino nano 33
 
