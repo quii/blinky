@@ -14,10 +14,8 @@ var (
 )
 
 func Blink(light Light, wait Wait) {
-	for {
-		light.Off()
-		wait()
-		light.On()
-		wait()
-	}
+	light.Off()
+	wait()
+	light.On()
+	wait()
 }
